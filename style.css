@@ -16,12 +16,14 @@ body {
     align-items: center;
     flex-direction: column;
     justify-content: space-around;
-    width: 500px;
-    height: 70%;
+    width: min(90%, 500px);
+    min-height: 400px;
     background: rgb(249, 186, 68);
     box-shadow: 0 0 5px grey;
     border-radius: 20px;
-    padding: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    box-sizing: border-box;
 }
 
 #card #pic{
