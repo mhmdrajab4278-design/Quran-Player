@@ -24,6 +24,7 @@ body {
     padding: 20px;
     margin: 20px auto;
     box-sizing: border-box;
+    gap: 20px;
 }
 
 #card #pic{
