@@ -16,7 +16,7 @@ body {
     align-items: center;
     flex-direction: column;
     justify-content: space-around;
-    width: 60%;
+    width: 500px;
     height: 70%;
     background: rgb(249, 186, 68);
     box-shadow: 0 0 5px grey;
